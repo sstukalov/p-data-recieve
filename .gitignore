@@ -1,0 +1,7 @@
+/bin**
+/p_data_receive/bak**
+/p_data_receive/obj**
+/.vs/p_data_receive/v15/Server/sqlite3/**
+
+**.bak
+*.suo
